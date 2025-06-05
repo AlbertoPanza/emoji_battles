@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Diablito",
+    "emoji": "😈",
+    "hp": 30,
+    "attack_power": 6,
+    "defense_power": 4
+  },
+  {
+    "name": "Maradona",
+    "emoji": "⚽️",
+    "hp": 25,
+    "attack_power": 8,
+    "defense_power": 3
+  },
+  {
+    "name": "Sakura",
+    "emoji": "🌸",
+    "hp": 22,
+    "attack_power": 7,
+    "defense_power": 5
+  },
+  {
+    "name": "Señor Piñata",
+    "emoji": "🎉",
+    "hp": 28,
+    "attack_power": 5,
+    "defense_power": 6
+  },
+  {
+    "name": "Toilet-Man",
+    "emoji": "🚽",
+    "hp": 24,
+    "attack_power": 9,
+    "defense_power": 2
+  },
+  {
+    "name": "Broccoli",
+    "emoji": "🥦",
+    "hp": 32,
+    "attack_power": 4,
+    "defense_power": 6
+  },
+  {
+    "name": "Techno Viking",
+    "emoji": "🕺",
+    "hp": 29,
+    "attack_power": 7,
+    "defense_power": 4
+  },
+  {
+    "name": "Baguette Américain",
+    "emoji": "🥖🥓",
+    "hp": 27,
+    "attack_power": 6,
+    "defense_power": 5
+  },
+  {
+    "name": "Space Duck",
+    "emoji": "🛸🦆",
+    "hp": 25,
+    "attack_power": 7,
+    "defense_power": 4
+  },
+  {
+    "name": "Karateka Gourmet",
+    "emoji": "🥋🍣 ",
+    "hp": 23,
+    "attack_power": 8,
+    "defense_power": 3
+  },
+  {
+    "name": "Banana Joe",
+    "emoji": "🍌🙎🏻‍♂️",
+    "hp": 26,
+    "attack_power": 6,
+    "defense_power": 5
+  },
+  {
+    "name": "Karenzilla",
+    "emoji": "💅🦖",
+    "hp": 20,
+    "attack_power": 9,
+    "defense_power": 2
+  },
+  {
+    "name": "Shark Lawyer",
+    "emoji": "🦈👩🏼‍💼",
+    "hp": 28,
+    "attack_power": 7,
+    "defense_power": 4
+  },
+  {
+    "name": "Unicorn Berserker",
+    "emoji": "🦄🔥",
+    "hp": 22,
+    "attack_power": 9,
+    "defense_power": 3
+  }
+]
